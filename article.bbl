@@ -1,0 +1,54 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Zhou}
+T.~Zhou, K.~Shimada, {An angle-based approach to two-dimensional mesh
+  smoothing}, Proceedings of the 9th International Meshing Roundtable~(412)
+  (2000) 373--384.
+
+\bibitem{Beasley1993}
+D.~Beasley, {An Overview of Genetic Algorithms : Part 1 , Fundamentals}.
+
+\bibitem{Holland1992}
+J.~H. Holland, {Adaptation in natural and artificial systems} (1992).
+
+\bibitem{Janikow1991}
+C.~Z. Janikow, Z.~Michalewicz, {An Experimental Comparison of Binary and
+  Floating Point Representations in Genetic Algorithms}, undefined.
+
+\bibitem{Shewchuk2002}
+J.~R. Shewchuk, {Reprint of: Delaunay refinement algorithms for triangular mesh
+  generation}, Computational Geometry: Theory and Applications 47~(7) (2014)
+  741--778.
+\newblock \href {http://dx.doi.org/10.1016/j.comgeo.2014.02.005}
+  {\path{doi:10.1016/j.comgeo.2014.02.005}}.
+
+\bibitem{Lin1996}
+M.~C. Lin, D.~N. Manocha, P.~{ACM Workshop on Applied Computational Geometry
+  (1st : 1996 : Philadelphia}, {Applied computational geometry : towards
+  geometric engineering : FCRC '96 Workshop, WACG '96, Philadelphia, PA, May
+  27-28, 1996 : selected papers}, Springer, 1996.
+
+\bibitem{Falsafioon2014}
+M.~Falsafioon, S.~Arabi, R.~Camarero, F.~Guibault, {Comparison of Two Mesh
+  Smoothing Techniques for Unstructured Grids}, IOP Conference Series: Earth
+  and Environmental Science 22.
+\newblock \href {http://dx.doi.org/10.1088/1755-1315/22/2/022020}
+  {\path{doi:10.1088/1755-1315/22/2/022020}}.
+
+\bibitem{Kumar2010}
+M.~Kumar, M.~Husian, N.~Upreti, D.~Gupta, {GENETIC ALGORITHM: REVIEW AND
+  APPLICATION}, International Journal of Information Techonology and Knowledge
+  Management.
+
+\bibitem{Eiben2012}
+A.~E. Eiben, P.~E. Rau{\'{e}}, Z.~Ruttkay, {Genetic algorithms with
+  multi-parent recombination}, 2012, pp. 78--87.
+\newblock \href {http://dx.doi.org/10.1007/3-540-58484-6_252}
+  {\path{doi:10.1007/3-540-58484-6_252}}.
+
+\end{thebibliography}

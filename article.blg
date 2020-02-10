@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: article.aux
+The style file: elsarticle-num.bst
+Database file #1: referencias.bib
+Warning--there's a number but no volume in Zhou
+Warning--empty journal in Beasley1993
+Warning--empty booktitle in Eiben2012
+Warning--empty publisher in Eiben2012
+You've used 9 entries,
+            2937 wiz_defined-function locations,
+            730 strings with 6748 characters,
+and the built_in function-call counts, 2263 in all, are:
+= -- 201
+> -- 72
+< -- 1
++ -- 30
+- -- 21
+* -- 125
+:= -- 319
+add.period$ -- 12
+call.type$ -- 9
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 71
+empty$ -- 262
+format.name$ -- 27
+if$ -- 590
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 38
+num.names$ -- 9
+pop$ -- 66
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 170
+stack$ -- 0
+substring$ -- 74
+swap$ -- 16
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 16
+width$ -- 10
+write$ -- 79
+(There were 4 warnings)
